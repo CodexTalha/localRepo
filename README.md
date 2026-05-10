@@ -1,1 +1,1 @@
-...local repository for GIT and GITHUB practice..git
+# Local Repository for GIT and GITHUB practice
